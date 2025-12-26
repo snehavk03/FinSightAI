@@ -1,0 +1,19 @@
+project_id = "dqpxrxcwjtrjeviwzcxw"
+
+[functions.fetch-stock-prices]
+verify_jwt = false
+
+[functions.portfolio-insights]
+verify_jwt = false
+
+[functions.portfolio-news]
+verify_jwt = false
+
+[functions.daily-portfolio-refresh]
+verify_jwt = false
+
+[functions.weekly-rebalance-check]
+verify_jwt = false
+
+[functions.monthly-ai-summary]
+verify_jwt = false
